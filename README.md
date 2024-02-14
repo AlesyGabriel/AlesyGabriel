@@ -4,7 +4,7 @@
 
 ### Languages
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ---
 
