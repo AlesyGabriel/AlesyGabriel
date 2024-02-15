@@ -3,8 +3,11 @@
   <img src="https://komarev.com/ghpvc/?username=alesygabriel&color=green" />
 </div>
 
+</br>
+
 Desenvolvedor Backend, graduando em Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 
+</br>
 
 ### Languages
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -21,5 +24,8 @@ Desenvolvedor Backend, graduando em Sistemas para Internet no Instituto Federal 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ---
 
-![alesygabriel's Stats](https://github-readme-stats.vercel.app/api?username=alesygabriel&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![alesygabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alesygabriel&theme=merko&hide_border=true)
+
+<div>
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=alesygabriel&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+  <img height=140 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alesygabriel&theme=merko&hide_border=true" />
+</div>
