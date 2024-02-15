@@ -1,33 +1,25 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=alesygabriel&color=green)
-- Desenvolvedor Backend
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <img src="https://komarev.com/ghpvc/?username=alesygabriel&color=green" />
+</div>
+
+Desenvolvedor Backend, graduando em Sistemas para Internet no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
+
 
 ### Languages
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 ### Technologies
-![Ruby on Rails](https://img.shields.io/badge/-RubyOnRails-000?&logo=rubyonrails&logoColor=FF0000)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=googlecloud)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ---
 
-![Alesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlesyGabriel&show_icons=true&theme=merko)
-<!--
-**AlesyGabriel/AlesyGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alesygabriel's Stats](https://github-readme-stats.vercel.app/api?username=alesygabriel&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![alesygabriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alesygabriel&theme=merko&hide_border=true)
